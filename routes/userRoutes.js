@@ -3,7 +3,26 @@ const router = express.Router();
 
 // In-memory storage (Note: This is temporary and will reset on server restart)
 let users = [
-    { userId: "1", name: "Demo User", email: "demo@example.com" }
+    {
+        "personalInfo": {
+          "firstName": "Swapnil",
+          "lastName": "kamble",
+          "email": "swapnil@gmail.com"
+        },
+        "address": {
+          "street": "Mumabi",
+          "city": "asdfasf",
+          "state": "sdf",
+          "zipCode": "343434"
+        },
+        "preferences": {
+          "notifications": false,
+          "theme": "light"
+        },
+        "loading": false,
+        "error": null,
+        "userId": "1737106360116"
+      }
 ];
 
 // Middleware to log requests
