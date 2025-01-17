@@ -1,0 +1,102 @@
+[
+  {
+    "personalInfo": {
+      "firstName": "Swapnil",
+      "lastName": "kamble",
+      "email": "swapnil@gmail.com"
+    },
+    "address": {
+      "street": "Mumabi",
+      "city": "asdfasf",
+      "state": "sdf",
+      "zipCode": "343434"
+    },
+    "preferences": {
+      "notifications": false,
+      "theme": "light"
+    },
+    "loading": false,
+    "error": null,
+    "userId": "1737106360116"
+  },
+  {
+    "personalInfo": {
+      "firstName": "safd",
+      "lastName": "afa",
+      "email": "asdf@m.com"
+    },
+    "address": {
+      "street": "asd",
+      "city": "adf",
+      "state": "df",
+      "zipCode": "3434343"
+    },
+    "preferences": {
+      "notifications": false,
+      "theme": "light"
+    },
+    "loading": false,
+    "error": null,
+    "userId": "1737106411017"
+  },
+  {
+    "personalInfo": {
+      "firstName": "sdf",
+      "lastName": "adf",
+      "email": "adsf@gm.com"
+    },
+    "address": {
+      "street": "asdf",
+      "city": "asf",
+      "state": "asdf",
+      "zipCode": "2323"
+    },
+    "preferences": {
+      "notifications": false,
+      "theme": "dark"
+    },
+    "loading": false,
+    "error": null,
+    "userId": "1737106744667"
+  },
+  {
+    "personalInfo": {
+      "firstName": "sd",
+      "lastName": "d",
+      "email": "d@gmail.com"
+    },
+    "address": {
+      "street": "34",
+      "city": "34",
+      "state": "34",
+      "zipCode": "434"
+    },
+    "preferences": {
+      "notifications": false,
+      "theme": null
+    },
+    "loading": false,
+    "error": null,
+    "userId": "1737107029261"
+  },
+  {
+    "personalInfo": {
+      "firstName": "asdf",
+      "lastName": "d",
+      "email": "dd@gm.com"
+    },
+    "address": {
+      "street": "sd",
+      "city": "d",
+      "state": "d",
+      "zipCode": "d"
+    },
+    "preferences": {
+      "notifications": false,
+      "theme": null
+    },
+    "loading": false,
+    "error": null,
+    "userId": "1737107051860"
+  }
+]
