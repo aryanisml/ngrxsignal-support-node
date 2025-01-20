@@ -66,9 +66,11 @@ router.post("/users", (req, res) => {
             userId: Date.now().toString(),
             createdAt: new Date().toISOString()
         };
-        
+        console.warn(
+            newUser
+        )
         // Basic validation
-        if (!newUser.name || !newUser.email) {
+        if (!newUser.personalInfo?.firstName || !newUser.personalInfo?.email) {
             return res.status(400).json({ error: "Name and email are required" });
         }
 
